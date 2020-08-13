@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "handlebars": "^4.5.3",
-    "serialize-javascript": "^2.1.2"
+    "serialize-javascript": "^3.1.0"
   }
 }
